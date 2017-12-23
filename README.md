@@ -18,9 +18,10 @@ Contest'den 48 saat önce kayıt başlar. Başlamadan önce kayıt yapılmalıd�
 ## PROBLEM ÇÖZÜMÜ
 
 Problemler verilen input'u beklenen output verilecek şekilde işlemek üzerine kuruludur. Örneğin
-```INPUT = 2 3
-
-OUTPUT= SUM OF THE NUMBERS```
+```
+INPUT = 2 3
+OUTPUT= SUM OF THE NUMBERS
+```
 
 Sorusu sorulsa python'da yazabileceğiniz örnek kod:
 

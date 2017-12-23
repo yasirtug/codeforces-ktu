@@ -10,7 +10,7 @@ Yarışmalardan sonra iyi kullanıcılar yarışma için tutorial ekleyebilir. B
 
 ## NASIL KULLANILIR
 
-Yeni başlayanlar için kolay problemlere, yani A ya da B etiketli sorulara bakmaları önerilir. Bunun için en iyisi problem sette çözüm sayısına göre sıralamaktır. Bu linkte sıralanmış hali mevcut: http://codeforces.com/problemset?order=BY_SOLVED_DESC
+Yeni başlayanlar için kolay problemlere, yani A ya da B etiketli sorulara bakmaları önerilir. Bunun için en iyisi problem sette çözüm sayısına göre sıralamaktır. Sıralanmış halin linki: http://codeforces.com/problemset?order=BY_SOLVED_DESC
 
 Sitede birkaç haftada bir contest'ler olur. Buradan yaklaşan ve geçmiş contest'lere ulaşılabilir: http://codeforces.com/contests
 Contest'den 48 saat önce kayıt başlar. Başlamadan önce kayıt yapılmalıdır. Bazı contest'ler div 1, div 2 olarak iki seviyeye ayrılır. #Rating'i 1700 den küçük olanlar div 1 e giremez. Div 1 de sorular daha zordur.

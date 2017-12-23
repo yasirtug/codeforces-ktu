@@ -1,5 +1,5 @@
-![Telegram](https://telegram.org/img/t_logo.png)
-[Gruba katılım ](https://t.me/joinchat/EcDDtBG_-clI-BjRmrE60A)
+Gruba katılım herkese açıktır:
+[Codeforces KTU](https://t.me/joinchat/EcDDtBG_-clI-BjRmrE60A)
 ## CODEFORCES NEDİR
 
 Competitive Programming sitelerinden biridir. Bu sitelerde kullanıcılar iyi kod yazma, algoritma çözme yeteneklerini yarıştırır.

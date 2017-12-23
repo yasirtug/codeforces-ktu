@@ -25,13 +25,11 @@ OUTPUT= SUM OF THE NUMBERS
 Sorusu sorulsa python'da yazabileceğiniz örnek kod:
 
 ```
-
 input=input()
 sayilar=input.split(" ") #input string ini boşlukla bölerek diziye dönüştürdük
 sayi1=int(sayilar[0]) #dizinin 1. elemanını alıp sayıya dönüştürdük
 sayi2=int(sayilar[1]) #2. elemanını alıp sayıya dönüştürdük
 print(sayi1+sayi2)
-
 ```
 
 Problem çözüldükten sonra problem sayfasında sağdaki panelden programlama dili seçilerek kod submit edilir. Sizi gönderilen kodlar sayfasına yönlendirir. Orada kodun işleme konulma sırasını, işleme konulduysa hangi testte olduğunu görebilirsiniz.

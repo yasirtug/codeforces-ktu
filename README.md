@@ -1,5 +1,4 @@
-![Telegram Logo](https://telegram.org/img/t_logo.png)
-Format: ![Alt Text](https://t.me/joinchat/EcDDtBG_-clI-BjRmrE60A)
+![[Gruba katılım ](https://t.me/joinchat/EcDDtBG_-clI-BjRmrE60A)](https://telegram.org/img/t_logo.png)
 
 ## CODEFORCES NEDİR
 

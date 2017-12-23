@@ -34,4 +34,4 @@ print(sayi1+sayi2)
 ```
 
 Problem çözüldükten sonra problem sayfasında sağdaki panelden programlama dili seçilerek kod submit edilir. Sizi gönderilen kodlar sayfasına yönlendirir. Orada kodun işleme konulma sırasını, işleme konulduysa hangi testte olduğunu görebilirsiniz.
-Bu kodu codeforces tek tek cevapları belli olan inputları girerek test eder. Verdiğiniz outputların hepsi doğru çıkarsa soruyu çözmüş olursunuz. Unuttuğunuz bir koşul varsa muhtemelen testlerden birinde hata olacaktır. Eski sorulardan birini çözüyorsanız hangi testte olduğunu görebilirsiniz. Yarışma içinde göremezsiniz.
+Bu kodu codeforces tek tek cevapları belli olan inputları girerek test eder. Verdiğiniz outputların hepsi doğru çıkarsa soruyu çözmüş olursunuz. Unuttuğunuz bir koşul varsa muhtemelen testlerden birinde hata olacaktır. Eski sorulardan birini çözüyorsanız hatanın hangi testte olduğunu görebilirsiniz. Yarışma içinde göremezsiniz.

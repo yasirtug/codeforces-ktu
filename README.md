@@ -3,7 +3,8 @@ Gruba katılım herkese açıktır:
 ## CODEFORCES NEDİR
 
 Competitive Programming sitelerinden biridir. Bu sitelerde kullanıcılar iyi kod yazma, algoritma çözme yeteneklerini yarıştırır.
-Sadece eski problemleri çözmeye çalışma yoluna da gidilebilir. Başlangıçta bir süre böyle yapılması daha uygundur. 
+Sadece eski problemleri çözmeye çalışma yoluna da gidilebilir. Başlangıçta bir süre böyle yapılması daha uygundur.
+
 Codeforces'ta oldukça fazla problem var. Bunlara yeni yarışmalarla sürekli yenileri eklenir. 
 Problemler yarışmada A dan Z ye, kolaydan zora sıralanır. Genellikle 5-6 problem olur. 
 Yarışmalardan sonra iyi kullanıcılar yarışma için tutorial ekleyebilir. Bütün problemlerin nasıl çözüldüğünü, düşünme sürecini anlatır. Bu tutorial'lere daha sonra problemlerin sayfalarından ulaşılabilir.

@@ -10,10 +10,8 @@ k6=int(giris[3])
 
 ikiBesAlti=min(k2,k5,k6)#oluşturulabilecek 256 sayısı
 k2-=ikiBesAlti# 256 nın kullandığını çıkarıyoruz.
-'''
-k5-=ikiBesAlti# Bu işlemlerin 32 oluşturmaya faydası
-k6-=ikiBesAlti# olmadığı için bunlara gerek yok.'''
+#k5-=ikiBesAlti# Bu işlemlerin 32 oluşturmaya faydası
+#k6-=ikiBesAlti# olmadığı için bunlara gerek yok.
 ucIki=min(k3,k2)#oluşturulabilecek 32 sayısı
 
 print(ikiBesAlti*256+ucIki*32)
-

@@ -1,7 +1,7 @@
 Gruba katılım herkese açıktır:
 [Codeforces KTU](https://t.me/joinchat/EcDDtBG_-clI-BjRmrE60A)
 
-Gruptaki herkes çözüm ekleyebilir. Pull request yollayın.
+Kendi çözümlerinizi eklemek ya da başka türlü katkıda bulunmak için pull request yollayabilirsiniz.
 
 ## CODEFORCES NEDİR
 

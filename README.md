@@ -25,8 +25,8 @@ Contest'den 48 saat önce kayıt başlar. Başlamadan önce kayıt yapılmalıd�
 
 Problemler verilen input'u beklenen output verilecek şekilde işlemek üzerine kuruludur. Örneğin
 ```
-INPUT = 2 3
-OUTPUT= SUM OF THE NUMBERS
+INPUT = INTEGER A AND INTEGER B IN THE SAME LINE, SEPERATED WITH SPACE
+OUTPUT= SUM OF A AND B
 ```
 
 Sorusu sorulsa python'da yazabileceğiniz örnek kod:

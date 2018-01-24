@@ -1,6 +1,7 @@
-Soruların çözümlerini grupta soru numarasını aratarak bulabilirsiniz.
 Gruba katılım herkese açıktır:
 [Codeforces KTU](https://t.me/joinchat/EcDDtBG_-clI-BjRmrE60A)
+
+Soruların çözümlerini grupta soru numarasını aratarak bulabilirsiniz.
 
 Kendi çözümlerinizi eklemek ya da başka türlü katkıda bulunmak için pull request yollayabilirsiniz.
 

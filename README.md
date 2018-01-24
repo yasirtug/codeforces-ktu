@@ -1,3 +1,4 @@
+Soruların çözümlerini grupta soru numarasını aratarak bulabilirsiniz.
 Gruba katılım herkese açıktır:
 [Codeforces KTU](https://t.me/joinchat/EcDDtBG_-clI-BjRmrE60A)
 

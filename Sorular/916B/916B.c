@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//http://codeforces.com/contest/916/submission/35104640
 int main()
 {
     long long int n;

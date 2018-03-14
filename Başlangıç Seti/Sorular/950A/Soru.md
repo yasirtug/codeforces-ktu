@@ -27,22 +27,24 @@ Bir çift sayı basın — takımdaki maksimum oyuncu sayısı. Takımın sıfı
 6
 ```
 
+
+
 ```
-**input**
+input
 
 5 5 5
 
-**output**
+output
 
 14
 ```
 
 ```
-**input**
+input
 
 0 2 0
 
-**output**
+output
 
 0
 ```

@@ -17,21 +17,18 @@ Sadece bir satırda 3 tamsayı **l**, **r** ve **aa** (0 ≤ l, r, a �
 Bir çift sayı basın — takımdaki maksimum oyuncu sayısı. Takımın sıfır oyuncuya sahip olması mümkün.
 
 ## Örnekler
-```
-### input
-1 4 2
 
-### output
+>input
+1 4 2
+output
 6
 
-### input
+>input
 5 5 5
-
-###output
+output
 14
 
-### input
+>input
 0 2 0
-### output
+output
 0
-```

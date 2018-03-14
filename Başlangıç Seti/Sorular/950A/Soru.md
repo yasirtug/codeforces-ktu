@@ -20,15 +20,22 @@ Bir çift sayı basın — takımdaki maksimum oyuncu sayısı. Takımın sıfı
 
 **input**
 1 4 2
+
 **output**
 6
 
+
+
 **input**
 5 5 5
+
 **output**
 14
 
+
+
 **input**
 0 2 0
+
 **output**
 0

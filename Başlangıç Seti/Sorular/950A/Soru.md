@@ -17,7 +17,7 @@ Sadece bir satırda 3 tamsayı **l**, **r** ve **aa** (0 ≤ l, r, a �
 Bir çift sayı basın — takımdaki maksimum oyuncu sayısı. Takımın sıfır oyuncuya sahip olması mümkün.
 
 ## Örnekler
-
+```
 **input**
 
 1 4 2
@@ -25,18 +25,9 @@ Bir çift sayı basın — takımdaki maksimum oyuncu sayısı. Takımın sıfı
 **output**
 
 6
+```
 
-
-
-
-
-
-
-
-
-
-
-
+```
 **input**
 
 5 5 5
@@ -44,17 +35,9 @@ Bir çift sayı basın — takımdaki maksimum oyuncu sayısı. Takımın sıfı
 **output**
 
 14
+```
 
-
-
-
-
-
-
-
-
-
-
+```
 **input**
 
 0 2 0
@@ -62,3 +45,4 @@ Bir çift sayı basın — takımdaki maksimum oyuncu sayısı. Takımın sıfı
 **output**
 
 0
+```

@@ -28,6 +28,15 @@ Bir çift sayı basın — takımdaki maksimum oyuncu sayısı. Takımın sıfı
 
 
 
+
+
+
+
+
+
+
+
+
 **input**
 
 5 5 5
@@ -35,6 +44,14 @@ Bir çift sayı basın — takımdaki maksimum oyuncu sayısı. Takımın sıfı
 **output**
 
 14
+
+
+
+
+
+
+
+
 
 
 

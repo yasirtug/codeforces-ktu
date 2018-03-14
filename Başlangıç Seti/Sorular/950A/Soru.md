@@ -1,4 +1,4 @@
-#Solaklar, Sağlaklar, Ambidexter'lar
+# Solaklar, Sağlaklar, Ambidexter'lar
 
 Bir su bovlingi antrenmanındasınıs. Burada **l** sayıda sol eliyle oynayan, **r** sayıda sağ eliyle oynayan ve **a** sayıda ambidexter var, sol eliyle ya da sağ eliyle oynayabilenler.
 
@@ -8,26 +8,27 @@ Ambidexter'lar sağ eliyle de sol eliyle de oynayabilirler. Takımda, ambidexter
 
 Lütfen sol elini kullananlar ile sağ elini kullananların eşit olduğu mümkün olanen büyük takım boyutunu bulun.
 
-##Input
+## Input
 
 Sadece bir satırda 3 tamsayı **l**, **r** ve **aa** (0 ≤ l, r, a ≤ 100) — antrenmandaki sol ellilerin sayısı, sağ ellilerin sayısı ve ambidexter'ların sayısı.
 
-##Output
+## Output
 
 Bir çift sayı basın — takımdaki maksimum oyuncu sayısı. Takımın sıfır oyuncuya sahip olması mümkün.
 
-##Örnekler
-#input
+## Örnekler
+
+# input
 `1 4 2`
-#output
+# output
 `6`
 
-#input
+# input
 `5 5 5`
 output
 `14`
 
-#input
+# input
 `0 2 0`
-#output
+# output
 `0`

@@ -1,5 +1,7 @@
 # Solaklar, Sağlaklar ve Ambidexter'lar
 
+[Sorunun linki](http://codeforces.com/problemset/problem/950/A)
+
 Bir su bovlingi antrenmanındasınız. Burada **l** sayıda sol eliyle oynayan, **r** sayıda sağ eliyle oynayan ve **a** sayıda ambidexter var, sol eliyle ya da sağ eliyle oynayabilenler.
 
 Antrenör, çift sayıda oyuncudan oluşan bir takım oluşturmaya karar verdi. Oyuncuların tam yarısı sağ eliyle, tam yarısı sol eliyle oynamalı. Bir oyuncu sadece tek elini kullanabilir.
@@ -47,6 +49,3 @@ output:
 
 0
 ```
-
-
-[Sorunun linki](http://codeforces.com/problemset/problem/950/A)

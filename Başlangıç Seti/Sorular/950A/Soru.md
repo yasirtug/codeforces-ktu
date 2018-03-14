@@ -1,6 +1,6 @@
 # Solaklar, Sağlaklar ve Ambidexter'lar
 
-Bir su bovlingi antrenmanındasınıs. Burada **l** sayıda sol eliyle oynayan, **r** sayıda sağ eliyle oynayan ve **a** sayıda ambidexter var, sol eliyle ya da sağ eliyle oynayabilenler.
+Bir su bovlingi antrenmanındasınız. Burada **l** sayıda sol eliyle oynayan, **r** sayıda sağ eliyle oynayan ve **a** sayıda ambidexter var, sol eliyle ya da sağ eliyle oynayabilenler.
 
 Antrenör, çift sayıda oyuncudan oluşan bir takım oluşturmaya karar verdi. Oyuncuların tam yarısı sağ eliyle, tam yarısı sol eliyle oynamalı. Bir oyuncu sadece tek elini kullanabilir.
 

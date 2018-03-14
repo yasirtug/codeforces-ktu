@@ -10,7 +10,7 @@ Lütfen sol elini kullananlar ile sağ elini kullananların eşit olduğu mümk�
 
 ## Input
 
-Sadece bir satırda 3 tamsayı **l**, **r** ve **aa** (0 ≤ l, r, a ≤ 100) — antrenmandaki sol ellilerin sayısı, sağ ellilerin sayısı ve ambidexter'ların sayısı.
+Sadece bir satırda 3 tamsayı **l**, **r** ve **a** (0 ≤ l, r, a ≤ 100) — antrenmandaki sol ellilerin sayısı, sağ ellilerin sayısı ve ambidexter'ların sayısı.
 
 ## Output
 

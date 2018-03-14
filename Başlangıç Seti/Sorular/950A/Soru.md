@@ -1,4 +1,4 @@
-# Solaklar, Sağlaklar, Ambidexter'lar
+# Solaklar, Sağlaklar ve Ambidexter'lar
 
 Bir su bovlingi antrenmanındasınıs. Burada **l** sayıda sol eliyle oynayan, **r** sayıda sağ eliyle oynayan ve **a** sayıda ambidexter var, sol eliyle ya da sağ eliyle oynayabilenler.
 
@@ -47,3 +47,6 @@ output:
 
 0
 ```
+
+
+[Sorunun linki](http://codeforces.com/problemset/problem/950/A)

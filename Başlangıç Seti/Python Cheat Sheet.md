@@ -12,13 +12,25 @@ dizi = string.split('_')
 #dizi: ['a b ', ' c d']
 ```
 
-### string'i integer'a dönüştürmek
+### dönüşümler
+#### string'i integer'a dönüştürmek
 ```python
 string = '123'
 integer = int(string)
 #integer: 123
 ```
-
+#### string'i float'a dönüştürmek
+```python
+string = '123.5'
+float = float(string)
+#float: 123.5
+```
+#### string'e dönüştürmek
+```python
+integer = 123
+string = str(integer)
+#string: 123
+```
 ### for döngüsü
 ```python
 a = [1, 2, 5]
@@ -83,6 +95,6 @@ for i in a:
 #5
 #7
 ```
-continue, döngüde sonraki adıma atlar. kendisinden sonra gelen işlemler yapılmaz.
-break, döngüyü bitirir. kendisinden sonra gelen işlemler yapılmaz.
+continue, döngüde sonraki adıma atlar. kendisinden sonra gelen işlemler yapılmaz.break, döngüyü bitirir. kendisinden sonra gelen işlemler yapılmaz.
+
 break ve continue, while'da da aynı işlevler ile kullanılabilir.

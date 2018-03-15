@@ -1,9 +1,9 @@
-###input almak:
+### input almak:
 ```python
 giris = input()
 ```
 
-###string'i bölmek:
+### string'i bölmek:
 ```python
 string = 'a b _ c d'
 dizi = string.split()
@@ -12,7 +12,7 @@ dizi = string.split('_')
 #dizi: ['a b ', ' c d']
 ```
 
-###dönüştürme işlemleri:
+### dönüştürme işlemleri:
 ```python
 string = '123'
 integer = int(string)

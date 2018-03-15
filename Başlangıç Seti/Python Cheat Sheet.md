@@ -3,7 +3,7 @@
 giris = input()
 ```
 
-### string'i bölmek:
+### string'i bölerek diziye dönüştürmek:
 ```python
 string = 'a b _ c d'
 dizi = string.split()

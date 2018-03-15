@@ -104,13 +104,13 @@ break ve continue, while'da da aynı işlevler ile kullanılabilir.
 
 #### diziye eleman ekleme - çıkarma
 ```python
-a = [1, 2, 3]
+a = [1, 3, 5]
 a.pop()
-#a: [1, 2]
+#a: [1, 3]
 a.append(4)
-#a: [1, 2, 4]
-a.insert(1, "test")
-#a: [1, "test", 2, 4]
+#a: [1, 3, 4]
+a.insert(2, "test")
+#a: [1, 3, "test", 4]
 ```
 
 #### uzunluk - maksimum - minimum

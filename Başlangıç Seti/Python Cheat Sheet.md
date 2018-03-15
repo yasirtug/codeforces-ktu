@@ -68,7 +68,6 @@ while sayi > 0:
 #3
 #2
 #1
-#break ve continue, while'da da aynı işlevler ile kullanılabilir.
 ```
 
 ### break ile continue
@@ -83,6 +82,7 @@ for i in a:
 #1
 #5
 #7
-#continue, döngüde sonraki adıma atlar. kendisinden sonra gelen işlemler yapılmaz.
-#break, döngüyü bitirir. kendisinden sonra gelen işlemler yapılmaz.
 ```
+continue, döngüde sonraki adıma atlar. kendisinden sonra gelen işlemler yapılmaz.
+break, döngüyü bitirir. kendisinden sonra gelen işlemler yapılmaz.
+break ve continue, while'da da aynı işlevler ile kullanılabilir.

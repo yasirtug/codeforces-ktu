@@ -98,3 +98,39 @@ for i in a:
 continue, döngüde sonraki adıma atlar. kendisinden sonra gelen işlemler yapılmaz.break, döngüyü bitirir. kendisinden sonra gelen işlemler yapılmaz.
 
 break ve continue, while'da da aynı işlevler ile kullanılabilir.
+
+
+### diziler
+
+#### diziye eleman ekleme - çıkarma
+```python
+a = [1, 2, 3]
+a.pop()
+#a: [1, 2]
+a.append(4)
+#a: [1, 2, 4]
+a.insert(1, "test")
+#a: [1, "test", 2, 4]
+```
+
+#### uzunluk - maksimum - minimum
+```python
+a = [5, 2, 43]
+len(a)
+#: 3
+min(a)
+#: 2
+max(a)
+#: 43
+```
+
+#### dilimleme
+```python
+a = [1, 2, 3, 4, 5, 6, 7]
+b = a[2:4]
+#b: [3, 4]
+b = a[2:]
+#b: [3, 4, 5, 6, 7]
+b = a[:5]
+#b: [1, 2, 3, 4, 5]
+```

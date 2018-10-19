@@ -22,4 +22,5 @@ Elinizde n tane rakamlı kart var ve bu kartlardan olabildiğince fazla telefon 
 **Giriş**\
 11\
 31415926535\
-0\
+**Çıkış**\
+0

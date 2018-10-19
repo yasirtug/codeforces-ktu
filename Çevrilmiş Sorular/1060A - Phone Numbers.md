@@ -19,38 +19,38 @@ En azından bir telefon numarası bu kartlardan oluşturabiliyorsa, oluşturulab
 
 **Giriş**
 
-```c
+```haxe
 11
 00000000008
 ```
 
 **Çıkış**
 
-```c
+```haxe
 1
 ```
 **Giriş**
 
-```c
+```haxe
 22
 0011223344556677889988
 ```
 
 **Çıkış**
 
-```c
+```haxe
 2
 ```
 
 **Giriş**
 
-```c
+```haxe
 11
 31415926535
 ```
 
 **Çıkış**
 
-```c
+```haxe
 0
 ```

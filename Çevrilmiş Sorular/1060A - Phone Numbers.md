@@ -17,37 +17,40 @@ En azından bir telefon numarası bu kartlardan oluşturabiliyorsa, oluşturulab
 
 ## Örnekler
 
-**Giriş**\
-```
+**Giriş**
+
+```c
 11
 00000000008
 ```
-**Çıkış**\
-```
+
+**Çıkış**
+
+```c
 1
 ```
-**Giriş**\
+**Giriş**
 
-```
+```c
 22
 0011223344556677889988
 ```
 
-**Çıkış**\
+**Çıkış**
 
-```
+```c
 2
 ```
 
-**Giriş**\
+**Giriş**
 
-```
+```c
 11
 31415926535
 ```
 
-**Çıkış**\
+**Çıkış**
 
-```
+```c
 0
 ```

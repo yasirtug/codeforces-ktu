@@ -13,8 +13,8 @@ Girişin ilk satırı bir *n* tamsayısı, sahip olduğunuz kartların sayısın
 
 En azından bir telefon numarası bu kartlardan oluşturabiliyorsa, oluşturulabilecek maksimum telefon numarası sayısını verin. Yoksa, 0 verin.
 
-**Örnekler**\
-\
+## Örnekler
+
 **Giriş**\
 11\
 00000000008\

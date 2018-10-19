@@ -1,5 +1,7 @@
 # A - Phone Numbers
 
+[Sorunun linki](http://codeforces.com/problemset/problem/1060/A)\
+\
 Bir string'e eğer uzunluğu 11'se ve "8xxxxxxxxxx"(her 'x' bir sayı) biçimindeyse, telefon numarasıdır diyelim.\
 Mesela, "80123456789" ve "80000000000" telefon numarasıyken "8012345678" veya "79000000000" değil.\
 \

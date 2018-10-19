@@ -5,20 +5,21 @@ Mesela, "80123456789" ve "80000000000" telefon numarasıyken "8012345678" veya "
 \
 Elinizde n tane rakamlı kart var ve bu kartlardan olabildiğince fazla telefon numarası oluşturmak istiyorsunuz. Her kart en fazla bir telefon numarasında kullanılabilir ve bütün kartları kullanmak zorunda değilsiniz. Telefon numaraları farklı olmak zorunda değil.\
 
-Örnekler\
+**Örnekler**\
 \
-Giriş\
+**Giriş**\
 11\
 00000000008\
-Çıkış\
+**Çıkış**\
 1\
-Giriş\
+\
+**Giriş**\
 22\
 0011223344556677889988\
-Çıkış\
+**Çıkış**\
 2\
 \
-Giriş\
+**Giriş**\
 11\
 31415926535\
 0\

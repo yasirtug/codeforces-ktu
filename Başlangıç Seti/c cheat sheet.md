@@ -145,25 +145,28 @@ break ve continue
 
 ### printf ve scanf
 ```c
-printf, konsola çıktı vermek için kullanılır.
+//printf, konsola çıktı vermek için kullanılır.
 
 printf("Merhaba");
 
 //printf içinde yazı dışında şeyler göstermek için format belirteçleri kullanırız.
-https://www.le.ac.uk/users/rjm1/cotter/page_30.htm
 
 printf("sayi: %d, char: %c", 4, 'a');
+//ilk parametre içindeki format belirteç sayısı kadar virgül koyup bu belirteçlerin yerlerine
+//sırasıyla yerleştirilecek değişkenleri yazmamız gerekir.
 //konsola, tırnak işaretleri olmadan "sayi: 4, char: a" basılacaktır.
 
-scanf, konsoldan giriş almak için kullanılır.
+
+
+//scanf, konsoldan giriş almak için kullanılır.
 
 int n;
 scanf("%d", &n);
 
-scanf'e değişkenin değerini değil, onun adresini vermek gerekir. 
-bu, & operatörü değişkenin önüne konularak yapılır.
+//scanf'e değişkenin değerini değil, onun adresini vermek gerekir. 
+//bu, & operatörü değişkenin önüne konularak yapılır.
 
-ek bilgi ve diğer format belirteçleri için: https://www.geeksforgeeks.org/format-specifiers-in-c/
+//ek bilgi ve diğer format belirteçleri için: https://www.geeksforgeeks.org/format-specifiers-in-c/
 
 
 ```

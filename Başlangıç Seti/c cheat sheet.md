@@ -188,6 +188,28 @@ scanf("%d", &n);
 
 ## örnek kodlar
 
+### [Problem 4A](https://github.com/yasirtug/codeforces-ktu/blob/master/Ba%C5%9Flang%C4%B1%C3%A7%20Seti/sorular/karpuz/soru.md)'nın çözümü
+```c
+#include <stdio.h>
+
+int main()
+{
+    int agirlik;
+    scanf("%d", &agirlik);
+    if(agirlik % 2 == 0 && agirlik > 2)
+    {
+        printf("YES\n");
+        return 0;
+    }
+    else
+    {
+        printf("NO\n");
+        return 0;
+    }
+}
+```
+
+
 ### basit bir hesap makinesi örneği
 ```c
 #include <stdio.h>

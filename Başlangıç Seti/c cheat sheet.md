@@ -149,10 +149,10 @@ for(int i = 0; i < 10; i++)
 ```
 
 ```c
-break ve continue
+break; ve continue;
 
 //döngü içindeki break; , döngünün durmasın ve önündeki kodların çalıştırılmamasını sağlar.
-//continue, döngüde kendi önündeki kodlar çalıştırılmadan döngünün hemen sonraki adıma atlamasını sağlar.
+//continue; , döngüde kendi önündeki kodlar çalıştırılmadan döngünün hemen sonraki adıma atlamasını sağlar.
 ```
 
 ### printf ve scanf

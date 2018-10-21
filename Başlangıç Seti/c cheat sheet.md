@@ -67,7 +67,8 @@ if(karşılaştırma)
 	kodlar
 }
 
-//parantez içindeki ifadenin doğru(1) olması durumunda içindeki kodları çalıştırır. kodlar bitince aşağıdan devam eder.
+//parantez içindeki ifadenin doğru(1) olması durumunda içindeki kodları çalıştırır. 
+//kodlar bitince aşağıdan devam eder.
 //eğer ifade yanlışsa(0), içeriye hiç girilmez ve aşağıdan devam edilir.
 
 if(karşılaştırma)
@@ -79,7 +80,8 @@ else
 	kodlar
 }
 
-//else, if içindeki karşılaştırma yanlışsa girilen bloktur. böyle bir senaryoda ya if, ya da else bloğuna girileceği kesindir.
+//else, if içindeki karşılaştırma yanlışsa girilen bloktur. 
+//böyle bir senaryoda ya if, ya da else bloğuna girileceği kesindir.
 
 if(karşılaştırma)
 {
@@ -132,7 +134,8 @@ for(int i = 0; i < 10; i++)
 {
 	bir takım kodlar.
 }
-//yukarıdaki for, yukarıdaki while ile aynı şekilde çalışır. tanımlamayı, karşılaştırmayı ve değişikliği tek satırda yapabiliriz.
+//yukarıdaki for, yukarıdaki while ile aynı şekilde çalışır. tanımlamayı, 
+//karşılaştırmayı ve değişikliği tek satırda yapabiliriz.
 
 break ve continue
 

@@ -5,17 +5,17 @@ int main()
 {
     int l, r, a;
     scanf("%d %d %d", &l, &r, &a);
-    while(a)
+    while(a) // a, sıfırdan farklı olduğu müddetçe
     {
         if(l < r)
         {
-            l++;
+            l++; // left küçükse left'i arttırıyoruz
         }
         else
         {
-            r++;
+            r++; // right küçükse right'ı arttırıyoruz
         }
-        a--;
+        a--; // a'yı bir eksiltiyoruz
     }
     if(l < r)
     {
@@ -25,4 +25,5 @@ int main()
     {
         printf("%d\n", r * 2);
     }
+    // küçük olanıb iki katını cevap olarak veriyoruz.
 }

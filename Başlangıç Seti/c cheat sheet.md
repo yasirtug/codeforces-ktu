@@ -130,10 +130,12 @@ while(i < 10)
     i++;
 }
 //yukaridaki while içi, 10 kere çalıştırılır ve her çalıştırmanın sonunda, 'i' bir artar.
+```
 
-
+```c
 for(tanimlama; karşılaştırma; değişiklik)
-{   kodlar;
+{
+    kodlar;
 }
 
 for örneği:
@@ -143,8 +145,10 @@ for(int i = 0; i < 10; i++)
     bir takım kodlar.
 }
 //yukarıdaki for, yukarıdaki while ile aynı şekilde çalışır. tanımlamayı, 
-//karşılaştırmayı ve değişikliği tek satırda yapabiliriz.
+//karşılaştırmayı ve değişikliği tek satırda yapabilmemizi sağlar.
+```
 
+```c
 break ve continue
 
 //döngü içindeki break; , döngünün durmasın ve önündeki kodların çalıştırılmamasını sağlar.
@@ -184,13 +188,91 @@ scanf("%d", &n);
 
 ## örnek kodlar
 
+### basit bir hesap makinesi örneği
+```c
+#include <stdio.h>
+
+int main()
+{
+    int sayi1, sayi2, sonuc;
+    char islem;
+    printf("Lutfen islemi giriniz:\n");
+    scanf("%c", &islem);
+    printf("Lutfen sayilari giriniz:\n");
+    scanf("%d %d", &sayi1, &sayi2);
+    if(islem == '+')
+    {
+        sonuc = sayi1 + sayi2;
+    }
+    else if(islem == '-')
+    {
+        sonuc = sayi1 - sayi2;
+    }
+    else if(islem == '*')
+    {
+        sonuc = sayi1 * sayi2;
+    }
+    else if(islem == '/')
+    {
+        sonuc = sayi1 / sayi2;
+    }
+    else
+    {
+        printf("Lutfen gecerli bir islem giriniz.\n");
+        return 0;
+    }
+    printf("Sonuc: %d\n", sonuc);
+    return 0;
+}
+```
+
 ### bir döngü boyunca sayacı bastırmak
 ```c
 #include <stdio.h>
 
 int main()
 {
-
+    int i = 0;
+    while(i < 10)
+    {
+        printf("%d\n", i);
+        i++;
+    }
+    return 0;
 }
-
 ```
+
+### üstteki while döngüsüne karşılık gelen for döngüsü
+```c
+#include <stdio.h>
+
+int main()
+{
+    for(int i = 0; i < 10; i++)
+    {
+        printf("%d\n", i);
+    }
+    return 0;
+}
+```
+
+### döngü ile alfabe'den bir string yapmak
+```c
+#include <stdio.h>
+
+//65'in ascii karşılığı 'A'
+//90'in ascii karşılığı 'Z'
+//65'ten 90'a sayıların ascii karşılıkları da ingiliz alfabesinin A'dan Z'ye harfleri.
+
+int main()
+{
+    char alfabe[27]; // 26 harf + 1 null karakter
+    int imlec = 0;
+    for(int i = 65; i <= 90; i++)
+    {
+        alfabe[imlec] = i;
+        imlec++;
+    }
+    alfabe[26] = '\0'; // 26. index, son karakter
+    printf("%s \n", alfabe);
+}

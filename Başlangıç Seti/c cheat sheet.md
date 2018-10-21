@@ -25,7 +25,7 @@ char karakter;
 ```
 
 ### diziler:
-dizi değişkeni oluşturmak
+bir dizi değişken oluşturmak
 ```c
 int tamsayi_dizisi[10];
 char karakter_dizisi[20] = "bir yazi";

@@ -298,3 +298,25 @@ int main()
     alfabe[26] = '\0'; // 26. index, son karakter
     printf("%s \n", alfabe);
 }
+```
+### break ve continue örneği
+```c
+#include <stdio.h>
+
+int main()
+{
+    for(int i = 0; i < 10; i++)
+    {
+        if(i == 3)
+        {
+            continue; // hemen döngüde sonraki adıma atla
+        }
+        if(i == 7)
+        {
+            break; // hemen döngüden çık
+        }
+        printf("%d ", i);
+    }
+    // sonuç olarak "0 1 2 4 5 6" basılmış olur.
+}
+```

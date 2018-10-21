@@ -160,7 +160,8 @@ scanf, konsoldan giriş almak için kullanılır.
 int n;
 scanf("%d", &n);
 
-scanf'e değişkenin değerini değil, onun adresini vermek gerekir. bu, & operatörü değişkenin önüne konularak yapılır.
+scanf'e değişkenin değerini değil, onun adresini vermek gerekir. 
+bu, & operatörü değişkenin önüne konularak yapılır.
 
 ek bilgi ve diğer format belirteçleri için: https://www.geeksforgeeks.org/format-specifiers-in-c/
 

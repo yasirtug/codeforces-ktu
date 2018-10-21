@@ -317,6 +317,6 @@ int main()
         }
         printf("%d ", i);
     }
-    // sonuç olarak "0 1 2 4 5 6" basılmış olur.
+    // sonuç olarak "0 1 2 4 5 6 " basılmış olur.
 }
 ```

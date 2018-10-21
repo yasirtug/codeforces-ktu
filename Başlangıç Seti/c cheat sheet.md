@@ -7,8 +7,8 @@ C hakkında ön bilgiye sahip olmadan, sadece bunlara bakarak kod yazmanız müm
 
 int main()
 {
-	printf("Merhaba dunya\n");
-	return 0;
+    printf("Merhaba dunya\n");
+    return 0;
 }
 ```
 
@@ -22,9 +22,18 @@ int, float, char
 int tamsayi;
 float rasyonel_sayi;
 char karakter;
+```
 
+### diziler:
+dizi değişkeni oluşturmak
+```c
 int tamsayi_dizisi[10];
 char karakter_dizisi[20] = "bir yazi";
+```
+dizi elemanlarına erişim
+```c
+tamsayi_dizisi[2] = 3;
+karakter_dizisi[0] = 'B'
 ```
 
 ### atama yapmak:
@@ -64,7 +73,7 @@ küçük veya eşitse: <=
 ```c
 if(karşılaştırma)
 {
-	kodlar
+    kodlar
 }
 
 //parantez içindeki ifadenin doğru(1) olması durumunda içindeki kodları çalıştırır. 
@@ -73,11 +82,11 @@ if(karşılaştırma)
 
 if(karşılaştırma)
 {
-	kodlar
+    kodlar
 }
 else
 {
-	kodlar
+    kodlar
 }
 
 //else, if içindeki karşılaştırma yanlışsa girilen bloktur. 
@@ -85,19 +94,19 @@ else
 
 if(karşılaştırma)
 {
-	kodlar
+    kodlar
 }
 else if(bir diğer karşılaştırma)
 {
-	kodlar
+    kodlar
 }
 else if(bir başka karşılaştırma)
 {
-	kodlar
+    kodlar
 }
 else
 {
-	kodlar
+    kodlar
 }
 
 //else if ile araya ek karşılaştırmalar koyabiliriz.
@@ -107,7 +116,7 @@ else
 ```c
 while(karşılaştırma)
 {
-	kodlar;
+    kodlar;
 }
 //karşılaştırma yanlış olana kadar önündeki bloğu tekrar tekrar çalıştırır.
 
@@ -117,22 +126,21 @@ while örneği:
 int i = 0;
 while(i < 10)
 {
-	bir takım kodlar.
-	i++;
+    bir takım kodlar.
+    i++;
 }
 //yukaridaki while içi, 10 kere çalıştırılır ve her çalıştırmanın sonunda, 'i' bir artar.
 
 
 for(tanimlama; karşılaştırma; değişiklik)
-{
-	kodlar;
+{   kodlar;
 }
 
 for örneği:
 
 for(int i = 0; i < 10; i++)
 {
-	bir takım kodlar.
+    bir takım kodlar.
 }
 //yukarıdaki for, yukarıdaki while ile aynı şekilde çalışır. tanımlamayı, 
 //karşılaştırmayı ve değişikliği tek satırda yapabiliriz.
@@ -145,6 +153,8 @@ break ve continue
 
 ### printf ve scanf
 ```c
+//bu iki fonksiyon stdio.h kütüphanesinde bulunur.
+
 //printf, konsola çıktı vermek için kullanılır.
 
 printf("Merhaba");
@@ -168,5 +178,19 @@ scanf("%d", &n);
 
 //ek bilgi ve diğer format belirteçleri için: https://www.geeksforgeeks.org/format-specifiers-in-c/
 
+
+```
+
+
+## örnek kodlar
+
+### bir döngü boyunca sayacı bastırmak
+```c
+#include <stdio.h>
+
+int main()
+{
+
+}
 
 ```

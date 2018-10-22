@@ -24,18 +24,6 @@ float rasyonel_sayi;
 char karakter;
 ```
 
-### diziler:
-bir dizi değişken oluşturmak
-```c
-int tamsayi_dizisi[10];
-char karakter_dizisi[20] = "bir yazi";
-```
-dizi elemanlarına erişim
-```c
-tamsayi_dizisi[2] = 3;
-karakter_dizisi[0] = 'B'
-```
-
 ### atama yapmak:
 ```c
 tamsayi = 0;
@@ -153,6 +141,18 @@ break; ve continue;
 
 //döngü içindeki break; , döngünün durmasın ve önündeki kodların çalıştırılmamasını sağlar.
 //continue; , döngüde kendi önündeki kodlar çalıştırılmadan döngünün hemen sonraki adıma atlamasını sağlar.
+```
+
+### diziler:
+bir dizi değişken oluşturmak
+```c
+int tamsayi_dizisi[10];
+char karakter_dizisi[20] = "bir yazi";
+```
+dizi elemanlarına erişim
+```c
+tamsayi_dizisi[2] = 3;
+karakter_dizisi[0] = 'B'
 ```
 
 ### printf ve scanf

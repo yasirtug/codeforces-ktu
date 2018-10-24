@@ -12,7 +12,7 @@ int main()
 		scanf("%s", kelime);
 
 		for(kelimeUzunlugu = 0; kelime[kelimeUzunlugu] != '\0'; kelimeUzunlugu++);
-		// kelime[kelimeUzunlugu], null char müddetçe kelimeUzunlugu'nu bir arttırıyoruz
+		// kelime[kelimeUzunlugu], null char olmadığı müddetçe kelimeUzunlugu'nu bir arttırıyoruz
 		if (kelimeUzunlugu > 10)
 		{
 			kelimeUzunlugu -= 2;

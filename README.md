@@ -1,4 +1,4 @@
-Gruba katılım herkese açıktır:
+Gruba katılım herkese açıktır (inaktif):
 [Codeforces KTU](https://t.me/joinchat/EcDDtBG_-clI-BjRmrE60A)
 
 Soruların anlatımlarını grupta soru numarasını aratarak bulabilirsiniz. Buraya çözdüğümüz soruların kodlarını eklesek de hepsinin anlatımını koymuyoruz.
